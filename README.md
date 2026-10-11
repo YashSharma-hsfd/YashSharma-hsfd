@@ -1,4 +1,4 @@
-# Yash Sharma
+# Hi, I'm Yash
 
 Data Science MSc at Hochschule Fulda, Germany. Computer science engineering before
 that, and two machine learning internships along the way.
