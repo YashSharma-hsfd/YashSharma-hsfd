@@ -7,7 +7,6 @@ I build machine learning systems end to end, from the SQL that assembles the dat
 the model that goes in front of a decision. The part I care most about is whether a
 result survives contact with data it has never seen.
 
-**Portfolio:** coming soon <!-- TODO: site URL once deployed -->
 **Email:** yash.sharma0664@gmail.com · **LinkedIn:** [yash-sharma-077411209](https://www.linkedin.com/in/yash-sharma-077411209/)
 
 ## Work
